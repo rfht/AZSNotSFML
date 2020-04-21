@@ -9,7 +9,7 @@ IF (APPLE)
 ENDIF()
 
 # Compiler flags
-SET(CMAKE_C_FLAGS "-O2")
+SET(CMAKE_C_FLAGS "-O2 -I/usr/include/sys")
 
 # Target
 ADD_LIBRARY(atomstb SHARED atomstb.c)
