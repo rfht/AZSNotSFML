@@ -1,3 +1,4 @@
 /atomstb/CMakeCache.txt
 /atomstb/CMakeFiles
-/atomstb/libatomstb.so
+/atomstb/*.o
+/atomstb/libatomstb.so*

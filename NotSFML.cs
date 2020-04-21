@@ -1,7 +1,8 @@
 #region License
 /* NotSFML - SFML/Tao Reimplementation for Atom Zombie Smasher
  *
- * Copyright (c) 2016 Ethan Lee.
+ * Copyright (c)	2016 Ethan Lee
+ * 			2020 Thomas Frohwein
  *
  * This software is provided 'as-is', without any express or implied warranty.
  * In no event will the authors be held liable for any damages arising from
